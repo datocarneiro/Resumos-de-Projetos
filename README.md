@@ -24,14 +24,14 @@ ______________________________________________________________________
 
 https://github.com/datocarneiro/Sortear_times
 
-Nesse projeto atuaei como desenvolvedor Full Stack, contruindo um sorteador de times
+Nesse projeto atuaei como `desenvolvedor Full Stack`, contruindo um sorteador de times
 Essa aplicação veio da necessidade do nosso Time de futebol das peladas do fim de semana rsrs, tinhamos dificuldade para gerenciar tanto o controle de quem confirmasse presença e da divisão equilibrada das duas equipes, então tive a ideia
 
 nela o proprio jogador , confirma sua presença. e a divisão do time é feito com todo uma logica considerando , nivel de jogador e posição de atuação
 
 o resultados ficou muito bom :)
 
-planejamos outras versão incluindo  a versão app.
+planejamos outras versão incluindo a versão app.
 
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/af4859ae-a00d-46f8-8906-c57c227ce8ac)
 
