@@ -25,7 +25,7 @@ ______________________________________________________________________
 ## 3 - Sortear times equilibrado
 
 https://github.com/datocarneiro/Sortear_times
-### Habilidades desenvolvidas: Banco de dadosem Nuvem(postgree) gerenciado pelo Dbeaver, Python, CI/CD, Html, CSS
+### Habilidades desenvolvidas: Banco de dados em Nuvem(postgree) gerenciado pelo Dbeaver, Python, CI/CD, Html, CSS
   
 Nesse projeto atuaei como `desenvolvedor Full Stack`, contruindo um sorteador de times
 Essa aplicação veio da necessidade do nosso Time de futebol das peladas do fim de semana rsrs, tinhamos dificuldade para gerenciar tanto o controle de quem confirmasse presença e da divisão equilibrada das duas equipes, então tive a ideia
