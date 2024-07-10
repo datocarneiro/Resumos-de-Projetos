@@ -20,7 +20,7 @@ Sem a documentação API, criei um `WebScraping`, onde pelo navegador o usuario 
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/a46cc7c3-d1da-4481-b10c-f3c7adafb421)
 
 ______________________________________________________________________
-## Sortear times equilibrado
+## 3 - Sortear times equilibrado
 
 https://github.com/datocarneiro/Sortear_times
 
