@@ -36,5 +36,6 @@ o resultados ficou muito bom :)
 
 planejamos outras versão incluindo a versão app.
 
-![image](https://github.com/datocarneiro/Projetos/assets/132966071/af4859ae-a00d-46f8-8906-c57c227ce8ac)
+![image](https://github.com/datocarneiro/Projetos/assets/132966071/cc58c6f3-69aa-4dbe-9c98-85046f7627c0)
+
 
