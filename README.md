@@ -14,7 +14,7 @@ _______________________________________________________________________
 ## 2 - Rastreados do objetos LATAM
 
 [https://github.com/datocarneiro/Rastreador_de_Objeto_Buslog](https://github.com/datocarneiro/Rastreador_de_Objeto_Latam-automacao-)
-### _habilidades desenvolvidas:_ 🎯 Python, Selenium, Openpyxl, Html, CSS
+### _habilidades desenvolvidas:_ 🎯 Python, Selenium, Openpyxl, Flask, Html, CSS
   
 Nesse projeto atuei como `Desenvolvedor`, construindo uma aplicação que pudesse rastrear encomendas de forma eficiente. 
 Sem a documentação API, criei um `WebScraping`, onde pelo navegador o usuario pode carregas um arquivo excel com com as encomendas que precisavam ser rastreadas
@@ -25,7 +25,7 @@ ______________________________________________________________________
 ## 3 - Sortear times equilibrado
 
 https://github.com/datocarneiro/Sortear_times
-### _Habilidades desenvolvidas:_ 🎯 Banco de dados em Nuvem(postgree) gerenciado pelo Dbeaver, Python, CI/CD, Html, CSS
+### _Habilidades desenvolvidas:_ 🎯 Banco de dados em Nuvem(postgree) gerenciado pelo Dbeaver, Python, CI/CD, Flask, Html, CSS
   
 Nesse projeto atuaei como `Desenvolvedor`, contruindo um sorteador de times
 Essa aplicação veio da necessidade do nosso Time de futebol das peladas do fim de semana rsrs, tinhamos dificuldade para gerenciar tanto o controle de quem confirmasse presença e da divisão equilibrada das duas equipes, então tive a ideia
@@ -42,7 +42,7 @@ ______________________________________________________________________
 ## 4 - Dashboard de expedição
 
 https://github.com/datocarneiro/Dashboard_Expedicao_v1.2
-### _habilidades desenvolvidas:_ 🎯 Python, Selenium, Pandas, Openpyxl, Html, CSS.
+### _habilidades desenvolvidas:_ 🎯 Python, Selenium, Pandas, Openpyxl, Flask, Html, CSS.
 
 Nesse projeto atuei como `Desenvolvedor`, Construindo uma dashboard de expedição.
 
@@ -54,7 +54,23 @@ cada transportadora tem seu horario de Corte, então era necessario esse `contro
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/0959e2bd-e412-4ced-a2a2-685056a98086)
 
 _______________________________________________________________________
+## APlicação para Reservas de datas (in memorian)
 
+https://github.com/datocarneiro/Reservar_Data/tree/main/Reserva_Data
+### _habilidades desenvolvidas:_ 🎯 Python, Json, Flask, Html, CSS.
+
+❤ `Esse é um projeto muito especial pra mim` ❤
+Ele nasceu em uma necessidade não muito boa, quando minha Vó se encontrava inferma
+
+Com a dificuldade de controlar os dias em que cada familiar poderia ficar dando asistencia para oas cuidados para com a nossa querida Vózinha, Crie uma aplicação onde fosse possivel ser acessada pela WEB, e salvasse um `banco de dados` simples nesse caso o banco estava em um Json. 
+
+A Aplicação foi feita o deploy na plataforma replit, então o acesso estava disponivel pra todos.
+
+A aplicação foi um sucesso, e atendeu o que se esperava, até que nossa `querida VÒ HILDA`, foi para o céu. 
+
+![image](https://github.com/datocarneiro/Projetos/assets/132966071/e3eb6035-2cac-45d0-9724-7329e80215a5)
+
+_______________________________________________________________________
 
 
 
