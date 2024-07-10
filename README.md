@@ -20,5 +20,14 @@ Sem a documentação API, criei um `WebScraping`, onde pelo navegador o usuario 
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/a46cc7c3-d1da-4481-b10c-f3c7adafb421)
 
 ______________________________________________________________________
-## Sortei de times equilibrado
+## Sortear times equilibrado
+
 https://github.com/datocarneiro/Sortear_times
+
+Nesse projeto atuaei como desenvolvedor Full Stack, contruindo um sorteador de times
+Essa aplicação veio da necessidade do nosso Time de futebol das peladas do fim de semana rsrs, tinhamos dificuldade para gerenciar tanto o controle de quem confirmasse presença e da divisão equilibrada das duas equipes, então tive a ideia
+
+nela o 
+
+![image](https://github.com/datocarneiro/Projetos/assets/132966071/af4859ae-a00d-46f8-8906-c57c227ce8ac)
+
