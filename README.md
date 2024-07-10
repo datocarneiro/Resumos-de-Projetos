@@ -3,7 +3,7 @@ ___________________________________________________________________
 ## 1 - Rastreados do objetos BusLog Via API
 
 https://github.com/datocarneiro/Rastreador_de_Objeto_Buslog-API-
-### Habilidades: Python, API Requests , Pandas, json, Tkinter.
+### __Habilidades desenvolvidas:__ Python, API Requests , Pandas, json, Tkinter.
   
 Nesse projeto atuei como `desenvolvedor de software`, construindo uma aplicação que pudesse rastrear encomendas de forma eficiente.
 Então com base na documentação `API` enviada pela transportadora, desenvolvemos a aplicação e trazendo o resultado esperado de forma praticamente instantânea.
