@@ -3,7 +3,7 @@ ___________________________________________________________________
 ## 1 - Rastreados do objetos BusLog Via API
 
 https://github.com/datocarneiro/Rastreador_de_Objeto_Buslog-API-
-### __Habilidades desenvolvidas:__ Python, API Requests , Pandas, json, Tkinter.
+### _Habilidades desenvolvidas:_ 🎯 Python, API Requests , Pandas, Json, Tkinter.
   
 Nesse projeto atuei como `desenvolvedor de software`, construindo uma aplicação que pudesse rastrear encomendas de forma eficiente.
 Então com base na documentação `API` enviada pela transportadora, desenvolvemos a aplicação e trazendo o resultado esperado de forma praticamente instantânea.
@@ -14,7 +14,7 @@ _______________________________________________________________________
 ## 2 - Rastreados do objetos LATAM
 
 [https://github.com/datocarneiro/Rastreador_de_Objeto_Buslog](https://github.com/datocarneiro/Rastreador_de_Objeto_Latam-automacao-)
-### habilidades desenvolvidas: Python, Selenium, Openpyxl, Html, CSS
+### _habilidades desenvolvidas:_ 🎯 Python, Selenium, Openpyxl, Html, CSS
   
 Nesse projeto atuei como `Desenvolvedor FullStack`, construindo uma aplicação que pudesse rastrear encomendas de forma eficiente. 
 Sem a documentação API, criei um `WebScraping`, onde pelo navegador o usuario pode carregas um arquivo excel com com as encomendas que precisavam ser rastreadas
@@ -25,7 +25,7 @@ ______________________________________________________________________
 ## 3 - Sortear times equilibrado
 
 https://github.com/datocarneiro/Sortear_times
-### Habilidades desenvolvidas: Banco de dados em Nuvem(postgree) gerenciado pelo Dbeaver, Python, CI/CD, Html, CSS
+### _Habilidades desenvolvidas:_ 🎯 Banco de dados em Nuvem(postgree) gerenciado pelo Dbeaver, Python, CI/CD, Html, CSS
   
 Nesse projeto atuaei como `desenvolvedor Full Stack`, contruindo um sorteador de times
 Essa aplicação veio da necessidade do nosso Time de futebol das peladas do fim de semana rsrs, tinhamos dificuldade para gerenciar tanto o controle de quem confirmasse presença e da divisão equilibrada das duas equipes, então tive a ideia
