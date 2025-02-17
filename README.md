@@ -5,11 +5,10 @@ ___________________________________________________________________
 https://github.com/datocarneiro/Rastreador_de_Objeto_Buslog-API-
 ### _Tecnologia:_ 🎯 Python, API Requests , Pandas, Json, Tkinter.
   
-Nesse projeto atuei como `Desenvolvedor`, construindo uma aplicação que pudesse rastrear encomendas de forma eficiente.
+Nesse projeto atuei como `Desenvolvedor`, construindo uma aplicação que pudesse Gerar encomendas, Cotar (em massa) e  rastrear de forma eficiente.
 Então com base na documentação `API` enviada pela transportadora, desenvolvemos a aplicação e trazendo o resultado esperado de forma praticamente instantânea.
 
-![image](https://github.com/user-attachments/assets/2e563d79-fc76-435a-b796-b660dda2475b)
-
+![image](https://github.com/user-attachments/assets/bc8a36c4-32cb-4673-ae0d-540148e2a81b)
 
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/74c1b2a7-bfc7-4472-930d-b15ac4d2cf21)
 
