@@ -74,6 +74,17 @@ A aplicação foi um sucesso, e atendeu o que se esperava, até que nossa `queri
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/e3eb6035-2cac-45d0-9724-7329e80215a5)
 
 _______________________________________________________________________
+## Banco de Dados
+
+https://github.com/datocarneiro/DATABASE/blob/main/Minha_documenta%C3%A7%C3%A3o.ipynb
+### _Tecnologia:_ 🎯 MySQL
+
+Aqui alguns estudos em banco de dados utilizando MySQL
+
+
+
+
+_______________________________________________________________________
 
 
 
