@@ -81,9 +81,8 @@ https://github.com/datocarneiro/DATABASE/blob/main/Minha_documenta%C3%A7%C3%A3o.
 
 Aqui alguns estudos em banco de dados utilizando MySQL
 
-![Descrição do GIF](videos/vd01.gif)
 
-
+![alt text](image-1.png)
 _______________________________________________________________________
 
 
