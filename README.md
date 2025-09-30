@@ -1,8 +1,8 @@
 # Projetos que desenvolvi
 ___________________________________________________________________
-## - App EliteFC (Gestão de
+## - App EliteFC Gerenciamento e Sorteio de times
 
-![image](https://github.com/datocarneiro/EliteFC_Mobile)
+https://github.com/datocarneiro/EliteFC_Mobile
 ### _Tecnologia:_ 🎯 Java, Firebase, FireAuth, Xml.
   
 Nesse projeto atuel como Desenvolvedor. Há um tempo atrás desenvolvi uma aplicação web que atendia bem à proposta inicial. Mas senti que poderia ir além… foi aí que decidi migrar a ideia para o mobile.
