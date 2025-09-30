@@ -6,7 +6,9 @@ ___________________________________________________________________
 ### _Tecnologia:_ 🎯 Java, Firebase, FireAuth, Xml.
   
 Nesse projeto atuel como Desenvolvedor. Há um tempo atrás desenvolvi uma aplicação web que atendia bem à proposta inicial. Mas senti que poderia ir além… foi aí que decidi migrar a ideia para o mobile.
+
 Reescrevi o projeto usando a linguagem em Java em conjunto com Android Studio e, para atender a necessidade de atualizações em tempo real, optei pelo Firestore Database, 
+
 Além do Firestore em tempo real, também implementei a autenticação do Firebase, que garante login seguro e simples para os usuários. Isso ajudou muito na divisão entre admin e membro dentro dos grupos.
 O resultado? Uma aplicação com login e autentication , criação de workspaces/grupos e divisão de usuários em admin e membro entre outras funcionalidades específicas do app.
 
