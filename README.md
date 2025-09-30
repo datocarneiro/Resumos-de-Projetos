@@ -1,6 +1,21 @@
 # Projetos que desenvolvi
 ___________________________________________________________________
-## 1 - Rastreados do objetos BusLog Via API
+## - App EliteFC (Gestão de
+
+![image](https://github.com/datocarneiro/EliteFC_Mobile)
+### _Tecnologia:_ 🎯 Java, Firebase, FireAuth, Xml.
+  
+Nesse projeto atuel como Desenvolvedor. Há um tempo atrás desenvolvi uma aplicação web que atendia bem à proposta inicial. Mas senti que poderia ir além… foi aí que decidi migrar a ideia para o mobile.
+Reescrevi o projeto usando a linguagem em Java em conjunto com Android Studio e, para atender a necessidade de atualizações em tempo real, optei pelo Firestore Database, 
+Além do Firestore em tempo real, também implementei a autenticação do Firebase, que garante login seguro e simples para os usuários. Isso ajudou muito na divisão entre admin e membro dentro dos grupos.
+O resultado? Uma aplicação com login e autentication , criação de workspaces/grupos e divisão de usuários em admin e membro entre outras funcionalidades específicas do app.
+
+![2cadastroGoogle](https://github.com/user-attachments/assets/923a3ba4-21d8-491a-9346-9d4d37524362)
+![4pesquisarGrupo](https://github.com/user-attachments/assets/44256e83-ed8f-473e-9c7c-2462a180acbe)
+![5aprovarSolicitacao](https://github.com/user-attachments/assets/715894f2-0e54-47eb-8bf3-96dad355e9b3)
+
+___________________________________________________________________
+## - Rastreados do objetos BusLog Via API
 
 https://github.com/datocarneiro/Rastreador_de_Objeto_Buslog-API-
 ### _Tecnologia:_ 🎯 Python, API Requests , Pandas, Json, Tkinter.
@@ -13,7 +28,7 @@ Então com base na documentação `API` enviada pela transportadora, desenvolvem
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/74c1b2a7-bfc7-4472-930d-b15ac4d2cf21)
 
 _______________________________________________________________________
-## 2 - Rastreados do objetos LATAM
+## - Rastreados do objetos LATAM
 
 [https://github.com/datocarneiro/Rastreador_de_Objeto_Buslog](https://github.com/datocarneiro/Rastreador_de_Objeto_Latam-automacao-)
 ### _Tecnologia:_ 🎯 Python, Selenium, Openpyxl, Flask, Html, CSS
@@ -24,7 +39,7 @@ Sem a documentação API, criei um `WebScraping`, onde pelo navegador o usuario 
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/a46cc7c3-d1da-4481-b10c-f3c7adafb421)
 
 ______________________________________________________________________
-## 3 - Sortear times equilibrado
+## - Sortear times equilibrado
 
 https://github.com/datocarneiro/Sortear_times
 ### _Tecnologia:_ 🎯 Banco de dados em Nuvem(postgree) gerenciado pelo Dbeaver, Python, CI/CD, Flask, Html, CSS
@@ -41,7 +56,7 @@ planejamos outras versão incluindo a versão app.
 ![image](https://github.com/datocarneiro/Projetos/assets/132966071/cc58c6f3-69aa-4dbe-9c98-85046f7627c0)
 
 ______________________________________________________________________
-## 4 - Dashboard de expedição
+## - Dashboard de expedição
 
 https://github.com/datocarneiro/Dashboard_Expedicao_v1.2
 ### _Tecnologia:_ 🎯 Python, Selenium, Pandas, Openpyxl, Flask, Html, CSS.
